@@ -6,9 +6,16 @@ Private work shows on the contribution graph. The projects below are public.
 
 ## Anyskills
 
-Since 2018 I have been the software developer for [Anyskills](https://anyskills.co.uk), a web and mobile product that connects freelancers and other service providers with people who need those services.
+Since 2018 I have been the software developer for [Anyskills](https://anyskills.co.uk), a web and mobile product for jobs, artisans, and services. People use it to search for work, hire artisans, and book services, including local jobs and remote roles.
 
-I am the solution architect, backend developer, frontend developer, and database administrator. That work covers the Python services, the Nuxt web application, and the database behind them. The product code is private.
+I am the solution architect, backend developer, frontend developer, and database administrator.
+
+- I design how the product fits together.
+- I build the Python services and the APIs behind the product.
+- I build the Nuxt web application.
+- I look after the PostgreSQL database.
+
+The product code is private.
 
 ## Public projects
 
