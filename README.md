@@ -8,7 +8,7 @@ Private work shows on the contribution graph. The projects below are public.
 
 Since 2018 I have been the software developer for [Anyskillz](https://anyskillz.com), a web and mobile product that connects freelancers and other service providers with people who need those services.
 
-My work covers the web application and the backend services that keep it running. The product code is private.
+I am the solution architect, backend developer, frontend developer, and database administrator. That work covers the Python services, the Nuxt web application, and the database behind them. The product code is private.
 
 ## Public projects
 
