@@ -4,6 +4,12 @@ Software developer working in Python, Java, and Terraform across web services, A
 
 Private work shows on the contribution graph. The projects below are public.
 
+## Anyskillz
+
+Since 2018 I have been the software developer for [Anyskillz](https://anyskillz.com), a web and mobile product that connects freelancers and other service providers with people who need those services.
+
+My work covers the web application and the backend services that keep it running. The product code is private.
+
 ## Public projects
 
 - [HorizonFMDutse](https://github.com/contactokoyevictor/HorizonFMDutse) — Android app
