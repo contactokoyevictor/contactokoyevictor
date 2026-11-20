@@ -1,16 +1,18 @@
-## Hi there 👋
+# Victor Okoye
 
-<!--
-**contactokoyevictor/contactokoyevictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer working in Python, Java, and Terraform across web services, Android, and infrastructure.
 
-Here are some ideas to get you started:
+Private work shows on the contribution graph. The projects below are public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public projects
+
+- [HorizonFMDutse](https://github.com/contactokoyevictor/HorizonFMDutse) — Android app
+- [TRANSCEND-CRM](https://github.com/contactokoyevictor/TRANSCEND-CRM) — Java CRM web app
+- [school_managment_system](https://github.com/contactokoyevictor/school_managment_system) — Java school management web app
+- [LifeStarRules](https://github.com/contactokoyevictor/LifeStarRules) — Java web app
+- [learning_terraform](https://github.com/contactokoyevictor/learning_terraform) — Terraform practice
+- [AnySkillz-API-getPageElement-Connector](https://github.com/contactokoyevictor/AnySkillz-API-getPageElement-Connector) — AnySkillz API notes
+
+## Contact
+
+[contactokoyevictor@gmail.com](mailto:contactokoyevictor@gmail.com)
