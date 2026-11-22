@@ -19,6 +19,7 @@ The product code is private.
 
 ## Public projects
 
+- [bulkifysms](https://github.com/contactokoyevictor/bulkifysms) — Full-stack bulk SMS platform (Spring Boot backend + Next.js frontend) for campaigns, contacts, scheduling, wallets, and delivery reporting
 - [HorizonFMDutse](https://github.com/contactokoyevictor/HorizonFMDutse) — Android app
 - [TRANSCEND-CRM](https://github.com/contactokoyevictor/TRANSCEND-CRM) — Java CRM web app
 - [school_managment_system](https://github.com/contactokoyevictor/school_managment_system) — Java school management web app
