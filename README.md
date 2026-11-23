@@ -34,7 +34,7 @@ I design and build the Nuxt / Vue web application that users run every day.
 - [bulkifysms](https://github.com/contactokoyevictor/bulkifysms) — Full-stack bulk SMS platform (Spring Boot backend + Next.js frontend) for campaigns, contacts, scheduling, wallets, and delivery reporting
 - [HorizonFMDutse](https://github.com/contactokoyevictor/HorizonFMDutse) — Android app for Horizon FM 100.5 Dutse: live radio streaming, background MediaPlayer service, station content, social WebViews, and listener feedback
 - [TRANSCEND-CRM](https://github.com/contactokoyevictor/TRANSCEND-CRM) — Java EE CRM on TomEE: organisations, campaigns, projects & tickets, messaging, licensing, payments, Quartz jobs, and an XML rules-engine API over JPA/MySQL
-- [school_managment_system](https://github.com/contactokoyevictor/school_managment_system) — Java school management web app
+- [school_managment_system](https://github.com/contactokoyevictor/school_managment_system) — Java Spring MVC school ERP: academics, students, exams, attendance, HR/payroll, fees & finance, role-based dashboards over JPA/MySQL
 - [LifeStarRules](https://github.com/contactokoyevictor/LifeStarRules) — Java web app
 - [learning_terraform](https://github.com/contactokoyevictor/learning_terraform) — Terraform practice
 - [AnySkillz-API-getPageElement-Connector](https://github.com/contactokoyevictor/AnySkillz-API-getPageElement-Connector) — Anyskills API notes
