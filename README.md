@@ -37,7 +37,6 @@ I design and build the Nuxt / Vue web application that users run every day.
 - [school_managment_system](https://github.com/contactokoyevictor/school_managment_system) — Java Spring MVC school ERP: academics, students, exams, attendance, HR/payroll, fees & finance, role-based dashboards over JPA/MySQL
 - [LifeStarRules](https://github.com/contactokoyevictor/LifeStarRules) — Java Drools patient-engagement platform: SMS cadence rules, BP tracker, MO/MT opt-in messaging, reminder scheduling over MySQL/JBoss
 - [learning_terraform](https://github.com/contactokoyevictor/learning_terraform) — Terraform practice
-- [AnySkillz-API-getPageElement-Connector](https://github.com/contactokoyevictor/AnySkillz-API-getPageElement-Connector) — Anyskills API notes
 
 ## Contact
 
