@@ -6,16 +6,28 @@ Private work shows on the contribution graph. The projects below are public.
 
 ## Anyskills
 
-Since 2018 I have been the software developer for [Anyskills](https://anyskills.co.uk), a web and mobile product for jobs, artisans, and services. People use it to search for work, hire artisans, and book services, including local jobs and remote roles.
+Since 2018 I have been the solution architect and lead software engineer for [Anyskills](https://anyskills.co.uk) — a web and mobile marketplace that connects freelancers, artisans, and service providers with people who need work done, both locally and remotely.
 
-I am the solution architect, backend developer, frontend developer, and database administrator.
+I own the product end to end: architecture, backend services, the Nuxt web application, and the PostgreSQL data layer. The product code is private.
 
-- I design how the product fits together.
-- I build the Python services and the APIs behind the product.
-- I build the Nuxt web application.
-- I look after the PostgreSQL database.
+### Backend
 
-The product code is private.
+I design and build the Django / Python platform behind Anyskills.
+
+- Domain services for jobs, gigs, projects, wallets, billing, messaging, profiles, organisations, and marketplace operations
+- REST APIs consumed by web and mobile clients, with authentication, authorisation, and account security flows
+- Asynchronous processing with Celery and Celery Beat, Redis for caching and brokers, and PostgreSQL as the system of record
+- Realtime and event-driven systems for chat, notifications, and collaborative workflows
+- Integrations for payments, cloud media storage, search and discovery, and recommendation surfaces that keep the marketplace reliable under load
+
+### Frontend
+
+I design and build the Nuxt / Vue web application that users run every day.
+
+- Marketplace discovery, seller and client dashboards, profiles, organisations, settings, and help experiences
+- Realtime chat, group video calling, live social surfaces, and map-based discovery
+- Product modules for campaigns, collaboration and disputes, forums, events, referrals, and wallet management
+- A large multi-module client structured with Vue, Pinia, composables, Tailwind, and shadcn-nuxt for consistency at scale
 
 ## Public projects
 
